@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "melnus:poisonous_potato"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:moss_block"
+      }
+    ],
+    "result": {
+      "item": "minecraft:poisonous_potato",
+      "count": 1
+    }
+  }
+}
