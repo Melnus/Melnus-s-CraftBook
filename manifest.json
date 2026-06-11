@@ -2,12 +2,12 @@
     "format_version": 2,
     "header": {
         "name": "Melnus's CraftBook",
-        "description": "A crafting recipe set that lets you create everything from cobblestone.",
+        "description": "A crafting recipe set that lets you create everything from cobblestone.---v004",
         "uuid": "71dcefbe-8382-4bee-9ae2-00b65086e2b6",
         "version": [
             0,
             0,
-            2
+            4
         ],
         "min_engine_version": [
             1,
@@ -22,13 +22,13 @@
     },
     "modules": [
         {
-            "description": "All-purpose craft book!",
+            "description": "All-purpose craft book!v004",
             "type": "data",
             "uuid": "a5a29bf7-93a9-4404-9396-c22904e2404d",
             "version": [
                 0,
                 0,
-                2
+                4
             ]
         }
     ],
