@@ -1,5 +1,7 @@
 # Melnus's CraftBook
 
+<img src="./pack_icon.png" width="60%">
+
 A Minecraft Bedrock Add-on that completely reimagines survival progression by turning cobblestone into the foundation of an entire alchemical crafting system.
 
 This add-on enables players to generate almost every major resource through a structured crafting tree, making it possible to progress from a single block of cobblestone to endgame materials like Netherite.
