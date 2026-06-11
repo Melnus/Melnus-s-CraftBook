@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "melnus:sheep_spawn_egg"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      { "item": "minecraft:cow_spawn_egg" },
+      { "item": "minecraft:wool" },
+      { "item": "minecraft:experience_bottle" }
+    ],
+    "result": {
+      "item": "minecraft:sheep_spawn_egg",
+      "count": 2
+    }
+  }
+}

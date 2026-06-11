@@ -1,0 +1,20 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "melnus:copper_ingot"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      { "item": "minecraft:gravel" },
+      { "item": "minecraft:dirt" },
+      { "item": "minecraft:charcoal" }
+    ],
+    "result": {
+      "item": "minecraft:copper_ingot",
+      "count": 6
+    }
+  }
+}
