@@ -121,6 +121,7 @@ Many normally non-craftable items can now be produced:
 - Gold + Experience Bottle → Diamond ×6
 - Diamond + Gold + Experience Bottle → Netherite Ingot ×4
 
+- [Other recipes](./recipes.md)
 
 ---
 
